@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.header_list_first {
+  float: left;
+  margin: 0 14px;
+}
+.header_menu {
+  float: right;
+  margin-top: 54px;
+}
